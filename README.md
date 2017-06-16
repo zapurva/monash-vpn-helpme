@@ -1,6 +1,6 @@
 ## monash-vpn-helpme
 
-#How to access Monash VPN via Linux (Ubuntu)
+# How to access Monash VPN via Linux (Ubuntu)
 
 1. Go to ```https://vpn.monash.edu```
 2. Select the 1-Monash_Authcate group from the drop down menu. Enter your Monash username and password 
@@ -25,3 +25,8 @@ and to open GUI:
 sudo ./vpnui
 ```
 6. In this window, connect to ```vpn.monash.edu``` and give necessary permissions (trust certificates). Again, provide login details and you're connected!
+
+# References
+
+[1] https://answers.uillinois.edu/illinois/page.php?id=47640
+[2] https://www.monash.edu/esolutions/network/vpn
